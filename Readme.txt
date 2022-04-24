@@ -16,6 +16,10 @@ To run -
 - Peers can send each other messages/snippets that are all formatted by lamport's timestamp algorithm.
 - The registry will send a stop message after some time or if the user types "done" in the console. This will prompt the peers to shutdown communication and send their report to the registry.
 
+Demo video -
+
+
+
 
 
 
