@@ -19,6 +19,4 @@ To run -
 This version works with the local registry. To make it work with a remote server, replace the sendLocation() function in HandleTCP.java at line 93 with the commented out function at line 103.
 
 
-Demo video -
-
-![demo](demo.mp4)
+Demo video uploaded.
